@@ -3,7 +3,7 @@ import DAO.Connect;
 import javax.swing.JFrame;
 /**
  *
- * @author george
+ * @author George Santos Leandro, Ra= N4269F8
  */
 public class JAVAjdbc1 {
     
@@ -20,9 +20,6 @@ public class JAVAjdbc1 {
         tela.setSize(500,500);
         tela.setVisible(true);
         tela.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        //TelaCadastro.tela();
-        
-
     }
 
 
